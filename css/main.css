@@ -1,4 +1,5 @@
 
+
 /*************************
 *******Typography******
 **************************/
@@ -546,15 +547,16 @@ section {
 .team-member:hover .social-icons ul li a.twitter {
   background-color: #2ac6f7;
 }
-.team-member:hover .social-icons ul li a.dribbble {
-  background-color: #ff5b92;
+.team-member:hover .social-icons ul li a.instagram {
+  background-color: #FF9224;
+}
+.team-member:hover .social-icons ul li a.instagram2 {
+  background-color: #A545DE;
 }
 .team-member:hover .social-icons ul li a.linkedin {
   background-color: #036dc0;
 }
-.team-member:hover .social-icons ul li a.rss {
-  background-color: #ff6b00;
-}
+
 
 #team .img-responsive {
   width: 100%;
@@ -968,7 +970,5 @@ ul.address {
 #footer .social-icons ul li a.tumblr:hover {
   background-color: #ff6b00;
 }
-
-/*Presets*/
 
 
